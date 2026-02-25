@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Jose
 
-<!--
-**joselu103/joselu103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer with a background in Robotics Engineering
 
-Here are some ideas to get you started:
+#### 🌴 From Málaga, Spain | 🇸🇮 Living in Ljubljana, Slovenia | 🌍 Open to remote EMEA opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🤖 2 years experience developing Python algorithms for robotic systems
+
+🐍 Passionate about Python and exploring new technologies
+
+⚡ Always learning: currently exploring FastAPI, SQLAlchemy, PostgreSQL & Docker
+
+🧠 Curious and structured engineer, keen to understand how things work
+
+🤝 Open to collaborate, learn, and grow in any software domain
