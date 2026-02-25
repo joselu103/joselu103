@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jose
 
-### Software Engineer with a background in Robotics Engineering
+### Robotics Engineer & Python Software Developer
 
 #### 🌴 From Málaga, Spain | 🇸🇮 Living in Ljubljana, Slovenia | 🌍 Open to remote EMEA opportunities
 
@@ -14,3 +14,7 @@
 🧠 Curious and structured engineer, keen to understand how things work
 
 🤝 Open to collaborate, learn, and grow in any software domain
+
+✨ I’d love to connect and share ideas with fellow developers!
+
+LinkedIn: https://www.linkedin.com/in/jose-luis-cambil/
