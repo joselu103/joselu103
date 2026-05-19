@@ -1,15 +1,14 @@
-## 👋 Hi, I'm Jose
+## 👋 Hi, I'm José
 
-### Robotics Engineer & Python Software Developer
+### Software Developer
 
 #### 🌴 From Málaga, Spain | 🇸🇮 Living in Ljubljana, Slovenia | 🌍 Open to remote EMEA opportunities
 
-
-🤖 2 years experience developing Python algorithms for robotic systems
+🤖 Robotics engineer with +2 years experience developing Python algorithms for robotic systems
 
 🐍 Passionate about Python and exploring new technologies
 
-⚡ Always learning: currently exploring FastAPI, SQLAlchemy, PostgreSQL & Docker
+⚡ Always learning: currently exploring Django, React and AI Tools
 
 🧠 Curious and structured engineer, keen to understand how things work
 
