@@ -8,7 +8,7 @@
 
 🐍 Passionate about Python and exploring new technologies
 
-⚡ Always learning: currently exploring Django, React and AI Tools
+⚡ Always learning: currently exploring RAG and MCP.
 
 🧠 Curious and structured engineer, keen to understand how things work
 
